@@ -1,0 +1,4 @@
+enum VerificationType {
+  registration,
+  passwordReset,
+}
